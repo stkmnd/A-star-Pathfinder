@@ -1,1 +1,1 @@
-# A-star-Pathfinder
+# A* Pathfinder
