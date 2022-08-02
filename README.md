@@ -6,4 +6,4 @@
 <br />
 
 Press **spacebar** to run the program. <br />
-Press **C** to clear the gird. <br />
+Press **C** to clear the grid. <br />
