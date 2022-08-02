@@ -3,6 +3,7 @@
 -> Starting Point - Yellow Block <br />
 -> Ending Point - Turquoise Block <br />
 -> Barrier - Black Block <br />
+<br />
 
 Press **spacebar** to run the program. <br />
 Press **C** to clear the gird. <br />
