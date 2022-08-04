@@ -5,5 +5,5 @@
 -> Barrier - Black Block <br />
 <br />
 
-Press **spacebar** to run the program. <br />
+Press **SPACEBAR** to run the program. <br />
 Press **C** to clear the grid. <br />
